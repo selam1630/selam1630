@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/selam1630/selam1630/blob/main/7a2981e8-4be8-414c-91c4-fb77f6e8f2fa.png" alt="Selamawit Fikru Banner" width="100%" />
+</p>
+
 - 👋 Hi, I’m @selam1630
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
